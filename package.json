@@ -1,7 +1,8 @@
 {
   "name": "@google-cloud/connect-datastore",
-  "description": "Google Cloud Datastore session store for Express/Connect",
+  "description": "Google Cloud Datastore session store for Express/Connect with TTL Support",
   "version": "7.0.0",
+
   "license": "Apache-2.0",
   "author": "Google Inc.",
   "main": "./build/src/index.js",
